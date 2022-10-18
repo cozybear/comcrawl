@@ -87,7 +87,7 @@ snapshots['test_search_multiple_indexes_multi_threaded 1'] = [
         'urlkey': 'org,commoncrawl,index)/'
     },
     {
-        'charset': 'UTF-8',
+        'encoding': 'UTF-8',
         'digest': '745JGUNVPWB4L3TWJIGUQRQFTFSREJ5J',
         'filename': 'crawl-data/CC-MAIN-2019-51/segments/1575540500637.40/warc/CC-MAIN-20191207160050-20191207184050-00394.warc.gz',
         'languages': 'eng',
